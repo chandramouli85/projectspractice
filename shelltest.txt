@@ -1,0 +1,6 @@
+a=15
+b=10
+echo "a value is $a,b value is $b"
+echo "add of $a and $b is $((a+b))"
+echo " sub of $a and $b is $((a-b))"
+echo " mult of $a and $b is $((a*b))"
